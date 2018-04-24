@@ -10,7 +10,7 @@ class users::spa (
 
   user { 'spa':
     ensure             => 'present',
-    comment            => "Selin Pavel ${hugepagenr}",
+    comment            => "2 Selin Pavel ${hugepagenr}",
     gid                => 1000,
     groups             => ['wheel', 'spa'],
     home               => '/home/spa',
