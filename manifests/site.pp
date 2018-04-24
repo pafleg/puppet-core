@@ -1,3 +1,3 @@
 node default {
-  include users::spa
+  #include users::spa
 }
