@@ -2,5 +2,5 @@
 
 users::spa::hugeperc: 51
 
-freeipa::domain: unix.tcsbank.ru
+freeipa::domain: unix.test.local
 freeipa::ipa_role: client
