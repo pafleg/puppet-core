@@ -21,5 +21,5 @@ class users::spa (
   #   shell              => '/bin/bash',
   #   uid                => 1000,
   # }
-  notify {"Running!":}
+  notify {"Hugeperc var: ${hugeperc}":}
 }
